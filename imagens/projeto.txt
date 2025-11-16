@@ -1,0 +1,42 @@
+Retorno do prompt
+
+O termo "lovable" (adorável) é um conceito de design de produto que se refere a criar uma experiência que os usuários amem, não apenas tolerem. O site "lovable" que você mencionou (assumindo que seja uma plataforma de desenvolvimento ou um gerador de código/protótipo) precisará de um *prompt* que seja uma **descrição concisa e completa** do produto.
+
+Com base no plano de MVP que elaboramos, compilei o prompt completo e otimizado para ser usado em uma ferramenta de geração de aplicativos ou protótipos.
+
+---
+
+### **Prompt Otimizado para Geração de Aplicativo (Lovable/Prototipagem)**
+
+**Nome do Projeto:** Agente Financeiro Conversacional (Nome de Trabalho: FinChat)
+
+**Objetivo:** Criar um MVP de um aplicativo de Organização de Finanças Pessoais que substitua a entrada manual de dados por uma interface de chat em linguagem natural. O foco é em **iniciantes** em finanças, com um tom **educativo** e uma experiência **"lovable"** (adorável).
+
+**Público-Alvo:** Pessoas que desistiram de apps de finanças tradicionais devido à complexidade e à alta fricção de entrada de dados.
+
+**Funcionalidades Essenciais do MVP:**
+
+1.  **Interface Principal de Chat:**
+    *   A tela inicial deve ser um chat, onde o usuário interage com um **Agente Financeiro** (com personalidade amigável e encorajadora).
+    *   **Registro de Gastos via Chat:** O usuário deve poder digitar frases como "Gastei 45 reais no almoço" ou "Paguei 120 de luz". O sistema deve extrair o valor, a descrição e a data.
+    *   **Classificação Automática:** O Agente deve sugerir a categoria (ex: "Alimentação") e pedir confirmação rápida (botão "Sim" ou "Corrigir").
+
+2.  **Telas de Acompanhamento (Mínimas):**
+    *   **Tela de Metas:** Lista de metas financeiras ativas (ex: "Reserva de Emergência"), mostrando o progresso em porcentagem e o valor restante.
+    *   **Tela de Relatório Simples:** Visualização de um **Gráfico de Pizza** simples com as 3 principais categorias de gastos do mês e o saldo atual.
+
+3.  **Recursos "Lovable" (Adicionais):**
+    *   **Feedback Contextual:** Após cada registro, o Agente deve dar uma resposta positiva e contextualizada (ex: "Ótimo! Você está a 5% de atingir sua meta de Reserva!").
+    *   **Dicas Proativas:** O Agente deve fornecer dicas de economia baseadas no histórico de gastos do usuário (ex: "Você gastou 15% a mais em Transporte esta semana. Que tal revermos a rota?").
+    *   **Gamificação Leve:** Mensagens de parabéns e *badges* virtuais ao atingir marcos (ex: 7 dias de registro consistente).
+
+**Tom e Linguagem:** Educativo, empático, acessível e em **Português do Brasil**. O Agente deve ser um parceiro, não um fiscal.
+
+**Estrutura de Navegação (3 Telas):**
+1.  Chat (Home)
+2.  Metas
+3.  Relatório
+
+---
+
+Você pode usar este texto como a descrição principal para a ferramenta de prototipagem. Se precisar de mais detalhes técnicos (como a lista de categorias iniciais ou o fluxo de login), me avise!
