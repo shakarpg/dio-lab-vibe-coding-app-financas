@@ -83,6 +83,9 @@ O protótipo inicial está sendo desenvolvido na plataforma Lovable.
 **Link de Acesso (Protótipo de Autenticação):**
 [https://preview--conversaflow-fin.lovable.app/auth](https://preview--conversaflow-fin.lovable.app/auth)
 
+
+Codigo no Github: [Finchat](https://github.com/shakarpg/conversaflow-fin.git)
+
 ## 🤝 Como Contribuir
 
 Agradecemos o interesse em contribuir com o projeto.
