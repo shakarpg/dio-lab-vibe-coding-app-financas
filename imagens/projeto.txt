@@ -41,4 +41,4 @@ Com base no plano de MVP que elaboramos, compilei o prompt completo e otimizado 
 
 Você pode usar este texto como a descrição principal para a ferramenta de prototipagem. Se precisar de mais detalhes técnicos (como a lista de categorias iniciais ou o fluxo de login), me avise!
 
-site: https://id-preview--b2b4ecfa-029f-403c-ab53-86aac8553bbb.lovable.app/auth
+site: https://conversaflow-fin.lovable.app/auth
